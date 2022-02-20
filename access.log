@@ -1,0 +1,8 @@
+usertoken
+743cc14b-c322-469f-bcde-43d0af28e6b8usertokenGET 200 / :"HTTP/1.1"
+usertoken
+bfe00780-a6d6-4300-817f-535e3558988cusertokenGET 200 / :"HTTP/1.1"
+usertoken
+7f56c5ff-e429-42e5-910f-18fa5ea7d544usertokenGET 200 / :"HTTP/1.1"
+595bb56c-9327-44d4-8fb5-4b69c9123cd5usertokenGET 404 /favicon.ico :"HTTP/1.1"
+2ee403db-e6dd-47b1-aa1b-6b467625e291usertokenGET 404 /api/magic :"HTTP/1.1"
